@@ -1,0 +1,250 @@
+[
+  {
+    "id": "b51b36d2-579d-4e50-9364-a1886891350f",
+    "pizzasIds": [
+      "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
+      "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
+    ],
+    "dough": "тонкое",
+    "size": 26,
+    "price": 7.99
+  },
+  {
+    "id": "991b9c74-0136-425e-83f5-61219d20dab1",
+    "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
+    "dough": "тонкое",
+    "size": 26,
+    "price": 12.49
+  },
+  {
+    "id": "11f0dd53-d4ed-43b6-b40e-236ce42a68db",
+    "pizzasIds": ["40998ec3-3836-43aa-a0eb-44d9ef058597"],
+    "dough": "тонкое",
+    "size": 26,
+    "price": 13.49
+  },
+  {
+    "id": "1b0bb767-9988-493e-86b0-0f884163a70a",
+    "pizzasIds": ["b89387ce-efba-4a06-b716-40bb0057e15b"],
+    "dough": "тонкое",
+    "size": 26,
+    "price": 14.99
+  },
+  {
+    "id": "6fbf9d3b-4901-464c-aa8b-336f817d8495",
+    "pizzasIds": ["c8b29daf-72ae-4228-bc58-3d5182532819"],
+    "dough": "тонкое",
+    "size": 26,
+    "price": 15.99
+  },
+  {
+    "id": "64749ee6-4a1e-49d1-ae61-e69bbbe6c87a",
+    "pizzasIds": ["fc169321-941f-4ff3-ace8-7ab0df9943e8"],
+    "dough": "тонкое",
+    "size": 26,
+    "price": 16.99
+  },
+  {
+    "id": "0b988a47-f503-4866-af93-2518b915db66",
+    "pizzasIds": ["aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"],
+    "dough": "тонкое",
+    "size": 26,
+    "price": 19.99
+  },
+  {
+    "id": "601c4f09-0210-4995-ac61-309aa80d81c9",
+    "pizzasIds": [
+      "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
+      "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
+    ],
+    "dough": "тонкое",
+    "size": 30,
+    "price": 15.99
+  },
+  {
+    "id": "c1a25a12-664a-4d7b-8a34-f24d1cd900d2",
+    "pizzasIds": [
+      "40998ec3-3836-43aa-a0eb-44d9ef058597",
+      "9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"
+    ],
+    "dough": "тонкое",
+    "size": 30,
+    "price": 22.49
+  },
+  {
+    "id": "f55c3b8f-59a2-432f-9417-537de6bda2ae",
+    "pizzasIds": [
+      "b89387ce-efba-4a06-b716-40bb0057e15b",
+      "c8b29daf-72ae-4228-bc58-3d5182532819"
+    ],
+    "dough": "тонкое",
+    "size": 30,
+    "price": 22.99
+  },
+  {
+    "id": "c85ff21d-a081-478c-896a-a5f62d1fe76d",
+    "pizzasIds": [
+      "fc169321-941f-4ff3-ace8-7ab0df9943e8",
+      "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
+    ],
+    "dough": "тонкое",
+    "size": 30,
+    "price": 26.49
+  },
+  {
+    "id": "ffccbc05-ad6a-41dd-b119-6bb925a4b029",
+    "pizzasIds": [
+      "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
+      "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
+    ],
+    "dough": "тонкое",
+    "size": 40,
+    "price": 19.99
+  },
+  {
+    "id": "59fa2361-0b9d-4314-8521-a8066d25d1f7",
+    "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
+    "dough": "тонкое",
+    "size": 40,
+    "price": 23.49
+  },
+  {
+    "id": "9d05440b-f6a9-46b2-b066-b38a28ed7919",
+    "pizzasIds": [
+      "b89387ce-efba-4a06-b716-40bb0057e15b",
+      "c8b29daf-72ae-4228-bc58-3d5182532819",
+      "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
+    ],
+    "dough": "тонкое",
+    "size": 40,
+    "price": 26.49
+  },
+  {
+    "id": "e264a794-c5a2-407f-b5f6-cb206e6e4995",
+    "pizzasIds": ["fc169321-941f-4ff3-ace8-7ab0df9943e8"],
+    "dough": "тонкое",
+    "size": 40,
+    "price": 29.99
+  },
+  {
+    "id": "abc03833-3f20-46d2-886d-478d01d7bb2d",
+    "pizzasIds": ["40998ec3-3836-43aa-a0eb-44d9ef058597"],
+    "dough": "тонкое",
+    "size": 40,
+    "price": 33.39
+  },
+  {
+    "id": "77afba00-74ab-40dd-a3f4-c76ed5323c31",
+    "pizzasIds": [
+      "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
+      "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
+    ],
+    "dough": "традиционное",
+    "size": 26,
+    "price": 6.99
+  },
+  {
+    "id": "7e035587-0342-4629-93e5-4e4e2f6c7439",
+    "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
+    "dough": "традиционное",
+    "size": 26,
+    "price": 11.49
+  },
+  {
+    "id": "47d038d4-a0db-4b53-a4bd-b50574a1c2fb",
+    "pizzasIds": [
+      "40998ec3-3836-43aa-a0eb-44d9ef058597",
+      "b89387ce-efba-4a06-b716-40bb0057e15b",
+      "c8b29daf-72ae-4228-bc58-3d5182532819"
+    ],
+    "dough": "традиционное",
+    "size": 26,
+    "price": 15.99
+  },
+  {
+    "id": "1f83d659-9290-4bc2-8050-5618799c5726",
+    "pizzasIds": [
+      "fc169321-941f-4ff3-ace8-7ab0df9943e8",
+      "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
+    ],
+    "dough": "традиционное",
+    "size": 26,
+    "price": 17.99
+  },
+  {
+    "id": "03201368-199f-469e-a6c3-0ab52f34ac6d",
+    "pizzasIds": [
+      "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
+      "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
+    ],
+    "dough": "традиционное",
+    "size": 30,
+    "price": 15.99
+  },
+  {
+    "id": "2c8f4e1a-9010-4c92-97f0-466bb8bd6a18",
+    "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
+    "dough": "традиционное",
+    "size": 30,
+    "price": 20.49
+  },
+  {
+    "id": "c6cee886-9966-4a97-a974-de5cb4609c04",
+    "pizzasIds": [
+      "40998ec3-3836-43aa-a0eb-44d9ef058597",
+      "b89387ce-efba-4a06-b716-40bb0057e15b",
+      "c8b29daf-72ae-4228-bc58-3d5182532819"
+    ],
+    "dough": "традиционное",
+    "size": 30,
+    "price": 22.99
+  },
+  {
+    "id": "a36d6431-43b6-4956-82f8-bad4d2297451",
+    "pizzasIds": [
+      "fc169321-941f-4ff3-ace8-7ab0df9943e8",
+      "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
+    ],
+    "dough": "традиционное",
+    "size": 30,
+    "price": 26.49
+  },
+  {
+    "id": "9bc246c1-de6f-4a90-96b2-d1cf6f889565",
+    "pizzasIds": [
+      "dcc4dc00-7ba7-45bb-a393-b4567cb44f60",
+      "4c7f7c2c-a56b-4a21-bc01-62d2ef6f6d87"
+    ],
+    "dough": "традиционное",
+    "size": 40,
+    "price": 19.99
+  },
+  {
+    "id": "046fdd82-adbc-4a21-b744-9b6aab204fff",
+    "pizzasIds": ["9c8c1f0b-5ba6-46fc-b733-732f9540cfc6"],
+    "dough": "традиционное",
+    "size": 40,
+    "price": 24.49
+  },
+  {
+    "id": "dce1f897-a8ca-4e70-aeda-09955c119565",
+    "pizzasIds": [
+      "40998ec3-3836-43aa-a0eb-44d9ef058597",
+      "b89387ce-efba-4a06-b716-40bb0057e15b",
+      "c8b29daf-72ae-4228-bc58-3d5182532819"
+    ],
+    "dough": "традиционное",
+    "size": 40,
+    "price": 26.49
+  },
+  {
+    "id": "e5885ec1-8138-40c6-baf4-9a579f478a08",
+    "pizzasIds": [
+      "fc169321-941f-4ff3-ace8-7ab0df9943e8",
+      "aad94bf3-cc29-462f-9ddd-6d6424ebcdf1"
+    ],
+    "dough": "традиционное",
+    "size": 40,
+    "price": 29.99
+  }
+]
